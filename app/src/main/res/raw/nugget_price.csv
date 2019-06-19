@@ -1,0 +1,460 @@
+﻿State,Brand,Unit,Price
+Alabama,Burger King,4,1.19
+Alabama,Burger King,10,2.99
+Alabama,Burger King,20,4.99
+Alabama,Chick-fil-A,8,3.05
+Alabama,Chick-fil-A,12,4.45
+Alabama,McDonald's,4,1.99
+Alabama,McDonald's,10,4.49
+Alabama,McDonald's,20,5
+Alabama,McDonald's,40,8.99
+Alaska,Burger King,4,1.45
+Alaska,Burger King,10,3.65
+Alaska,Burger King,20,6.09
+Alaska,Chick-fil-A,8,3.72
+Alaska,Chick-fil-A,12,5.43
+Alaska,McDonald's,4,2.43
+Alaska,McDonald's,10,5.48
+Alaska,McDonald's,20,6.1
+Alaska,McDonald's,40,10.97
+Arizona,Burger King,4,1.32
+Arizona,Burger King,10,3.32
+Arizona,Burger King,20,5.54
+Arizona,Chick-fil-A,8,3.39
+Arizona,Chick-fil-A,12,4.94
+Arizona,McDonald's,4,2.21
+Arizona,McDonald's,10,4.98
+Arizona,McDonald's,20,5.55
+Arizona,McDonald's,40,9.98
+Arkansas,Burger King,4,1.18
+Arkansas,Burger King,10,2.96
+Arkansas,Burger King,20,4.94
+Arkansas,Chick-fil-A,8,3.02
+Arkansas,Chick-fil-A,12,4.41
+Arkansas,McDonald's,4,3.26
+Arkansas,McDonald's,10,4.45
+Arkansas,McDonald's,20,6.43
+Arkansas,McDonald's,40,8.9
+California,Burger King,4,1.52
+California,Burger King,10,3.83
+California,Burger King,20,6.39
+California,Chick-fil-A,8,3.9
+California,Chick-fil-A,12,5.7
+California,McDonald's,4,2.55
+California,McDonald's,10,5.75
+California,McDonald's,20,6.4
+California,McDonald's,40,11.51
+Colorado,Burger King,4,1.37
+Colorado,Burger King,10,3.44
+Colorado,Burger King,20,5.74
+Colorado,Chick-fil-A,8,3.51
+Colorado,Chick-fil-A,12,5.12
+Colorado,McDonald's,4,2.29
+Colorado,McDonald's,10,5.16
+Colorado,McDonald's,20,5.75
+Colorado,McDonald's,40,10.34
+Connecticut,Burger King,4,1.48
+Connecticut,Burger King,10,3.71
+Connecticut,Burger King,20,6.19
+Connecticut,Chick-fil-A,8,3.78
+Connecticut,Chick-fil-A,12,5.52
+Connecticut,McDonald's,4,2.47
+Connecticut,McDonald's,10,5.57
+Connecticut,McDonald's,20,6.2
+Connecticut,McDonald's,40,11.15
+Delaware,Burger King,4,1.38
+Delaware,Burger King,10,3.47
+Delaware,Burger King,20,5.79
+Delaware,Chick-fil-A,8,3.54
+Delaware,Chick-fil-A,12,5.16
+Delaware,McDonald's,4,2.31
+Delaware,McDonald's,10,5.21
+Delaware,McDonald's,20,5.8
+Delaware,McDonald's,40,10.43
+District of Columbia,Burger King,4,1.59
+District of Columbia,Burger King,10,4.01
+District of Columbia,Burger King,20,6.69
+District of Columbia,Chick-fil-A,8,4.09
+District of Columbia,Chick-fil-A,12,5.96
+District of Columbia,McDonald's,4,2.67
+District of Columbia,McDonald's,10,6.02
+District of Columbia,McDonald's,20,6.7
+District of Columbia,McDonald's,40,12.05
+Florida,Burger King,4,1.33
+Florida,Burger King,10,3.35
+Florida,Burger King,20,5.59
+Florida,Chick-fil-A,8,3.42
+Florida,Chick-fil-A,12,4.98
+Florida,McDonald's,4,2.23
+Florida,McDonald's,10,5.03
+Florida,McDonald's,20,5.6
+Florida,McDonald's,40,10.07
+Georgia,Burger King,4,1.24
+Georgia,Burger King,10,3.11
+Georgia,Burger King,20,5.19
+Georgia,Chick-fil-A,8,3.17
+Georgia,Chick-fil-A,12,4.63
+Georgia,McDonald's,4,2.07
+Georgia,McDonald's,10,4.67
+Georgia,McDonald's,20,5.2
+Georgia,McDonald's,40,9.35
+Hawaii,Burger King,4,1.58
+Hawaii,Burger King,10,3.98
+Hawaii,Burger King,20,6.64
+Hawaii,Chick-fil-A,8,4.06
+Hawaii,Chick-fil-A,12,5.92
+Hawaii,McDonald's,4,2.65
+Hawaii,McDonald's,10,5.97
+Hawaii,McDonald's,20,6.65
+Hawaii,McDonald's,40,11.96
+Idaho,Burger King,4,1.26
+Idaho,Burger King,10,3.17
+Idaho,Burger King,20,5.29
+Idaho,Chick-fil-A,8,3.23
+Idaho,Chick-fil-A,12,4.72
+Idaho,McDonald's,4,2.11
+Idaho,McDonald's,10,4.76
+Idaho,McDonald's,20,5.3
+Idaho,McDonald's,40,9.53
+Illinois,Burger King,4,1.36
+Illinois,Burger King,10,3.41
+Illinois,Burger King,20,5.69
+Illinois,Chick-fil-A,8,3.48
+Illinois,Chick-fil-A,12,5.07
+Illinois,McDonald's,4,2.27
+Illinois,McDonald's,10,5.12
+Illinois,McDonald's,20,5.7
+Illinois,McDonald's,40,10.25
+Indiana,Burger King,4,1.23
+Indiana,Burger King,10,3.08
+Indiana,Burger King,20,5.14
+Indiana,Chick-fil-A,8,3.14
+Indiana,Chick-fil-A,12,4.58
+Indiana,McDonald's,4,2.05
+Indiana,McDonald's,10,4.62
+Indiana,McDonald's,20,5.15
+Indiana,McDonald's,40,9.26
+Iowa,Burger King,4,1.21
+Iowa,Burger King,10,3.05
+Iowa,Burger King,20,5.09
+Iowa,Chick-fil-A,8,3.11
+Iowa,Chick-fil-A,12,4.54
+Iowa,McDonald's,4,2.03
+Iowa,McDonald's,10,4.58
+Iowa,McDonald's,20,5.1
+Iowa,McDonald's,40,9.17
+Kansas,Burger King,4,1.21
+Kansas,Burger King,10,3.05
+Kansas,Burger King,20,5.09
+Kansas,Chick-fil-A,8,3.11
+Kansas,Chick-fil-A,12,5.54
+Kansas,McDonald's,4,2.03
+Kansas,McDonald's,10,4.58
+Kansas,McDonald's,20,5.1
+Kansas,McDonald's,40,9.17
+Kentucky,Burger King,4,1.2
+Kentucky,Burger King,10,3.02
+Kentucky,Burger King,20,5.04
+Kentucky,Chick-fil-A,8,3.08
+Kentucky,Chick-fil-A,12,4.49
+Kentucky,McDonald's,4,2.01
+Kentucky,McDonald's,10,4.53
+Kentucky,McDonald's,20,5.05
+Kentucky,McDonald's,40,9.08
+Louisiana,Burger King,4,1.24
+Louisiana,Burger King,10,3.11
+Louisiana,Burger King,20,5.19
+Louisiana,Chick-fil-A,8,3.17
+Louisiana,Chick-fil-A,12,4.63
+Louisiana,McDonald's,4,2.07
+Louisiana,McDonald's,10,4.67
+Louisiana,McDonald's,20,5.2
+Louisiana,McDonald's,40,9.35
+Maine,Burger King,4,1.33
+Maine,Burger King,10,3.35
+Maine,Burger King,20,5.59
+Maine,Chick-fil-A,8,3.42
+Maine,Chick-fil-A,12,4.98
+Maine,McDonald's,4,2.23
+Maine,McDonald's,10,5.03
+Maine,McDonald's,20,5.6
+Maine,McDonald's,40,10.07
+Maryland,Burger King,4,1.5
+Maryland,Burger King,10,3.77
+Maryland,Burger King,20,6.29
+Maryland,Chick-fil-A,8,3.84
+Maryland,Chick-fil-A,12,5.61
+Maryland,McDonald's,4,2.51
+Maryland,McDonald's,10,5.66
+Maryland,McDonald's,20,6.3
+Maryland,McDonald's,40,11.33
+Massachusetts,Burger King,4,1.45
+Massachusetts,Burger King,10,3.65
+Massachusetts,Burger King,20,6.09
+Massachusetts,Chick-fil-A,8,3.72
+Massachusetts,Chick-fil-A,12,5.43
+Massachusetts,McDonald's,4,2.43
+Massachusetts,McDonald's,10,5.48
+Massachusetts,McDonald's,20,6.1
+Massachusetts,McDonald's,40,10.97
+Michigan,Burger King,4,1.27
+Michigan,Burger King,10,3.2
+Michigan,Burger King,20,5.34
+Michigan,Chick-fil-A,8,3.26
+Michigan,Chick-fil-A,12,4.76
+Michigan,McDonald's,4,2.13
+Michigan,McDonald's,10,4.8
+Michigan,McDonald's,20,5.35
+Michigan,McDonald's,40,9.62
+Minnesota,Burger King,4,1.32
+Minnesota,Burger King,10,3.32
+Minnesota,Burger King,20,5.54
+Minnesota,Chick-fil-A,8,3.39
+Minnesota,Chick-fil-A,12,4.94
+Minnesota,McDonald's,4,2.21
+Minnesota,McDonald's,10,4.98
+Minnesota,McDonald's,20,5.55
+Minnesota,McDonald's,40,9.98
+Mississippi,Burger King,4,1.17
+Mississippi,Burger King,10,2.93
+Mississippi,Burger King,20,4.89
+Mississippi,Chick-fil-A,8,2.99
+Mississippi,Chick-fil-A,12,4.36
+Mississippi,McDonald's,4,1.95
+Mississippi,McDonald's,10,4.4
+Mississippi,McDonald's,20,4.9
+Mississippi,McDonald's,40,8.81
+Missouri,Burger King,4,1.19
+Missouri,Burger King,10,2.99
+Missouri,Burger King,20,4.99
+Missouri,Chick-fil-A,8,3.05
+Missouri,Chick-fil-A,12,4.45
+Missouri,McDonald's,4,1.99
+Missouri,McDonald's,10,4.49
+Missouri,McDonald's,20,5
+Missouri,McDonald's,40,8.99
+Montana,Burger King,4,1.27
+Montana,Burger King,10,3.2
+Montana,Burger King,20,5.34
+Montana,Chick-fil-A,8,3.26
+Montana,Chick-fil-A,12,4.76
+Montana,McDonald's,4,2.13
+Montana,McDonald's,10,4.8
+Montana,McDonald's,20,5.35
+Montana,McDonald's,40,9.62
+Nebraska,Burger King,4,1.21
+Nebraska,Burger King,10,3.05
+Nebraska,Burger King,20,5.09
+Nebraska,Chick-fil-A,8,3.11
+Nebraska,Chick-fil-A,12,4.54
+Nebraska,McDonald's,4,2.03
+Nebraska,McDonald's,10,4.58
+Nebraska,McDonald's,20,5.1
+Nebraska,McDonald's,40,9.17
+Nevada,Burger King,4,1.32
+Nevada,Burger King,10,3.32
+Nevada,Burger King,20,5.54
+Nevada,Chick-fil-A,8,3.39
+Nevada,Chick-fil-A,12,4.94
+Nevada,McDonald's,4,2.21
+Nevada,McDonald's,10,4.98
+Nevada,McDonald's,20,5.55
+Nevada,McDonald's,40,9.98
+New Hampshire,Burger King,4,1.44
+New Hampshire,Burger King,10,3.62
+New Hampshire,Burger King,20,6.04
+New Hampshire,Chick-fil-A,8,3.69
+New Hampshire,Chick-fil-A,12,5.38
+New Hampshire,McDonald's,4,2.41
+New Hampshire,McDonald's,10,5.43
+New Hampshire,McDonald's,20,6.05
+New Hampshire,McDonald's,40,10.88
+New Jersey,Burger King,4,1.55
+New Jersey,Burger King,10,3.89
+New Jersey,Burger King,20,6.49
+New Jersey,Chick-fil-A,8,3.96
+New Jersey,Chick-fil-A,12,5.79
+New Jersey,McDonald's,4,2.59
+New Jersey,McDonald's,10,5.84
+New Jersey,McDonald's,20,6.5
+New Jersey,McDonald's,40,11.69
+New Mexico,Burger King,4,1.29
+New Mexico,Burger King,10,3.23
+New Mexico,Burger King,20,5.39
+New Mexico,Chick-fil-A,8,3.29
+New Mexico,Chick-fil-A,12,4.81
+New Mexico,McDonald's,4,2.15
+New Mexico,McDonald's,10,4.85
+New Mexico,McDonald's,20,5.4
+New Mexico,McDonald's,40,9.71
+New York,Burger King,4,1.56
+New York,Burger King,10,3.92
+New York,Burger King,20,6.54
+New York,Chick-fil-A,8,4
+New York,Chick-fil-A,12,5.83
+New York,McDonald's,4,2.61
+New York,McDonald's,10,5.88
+New York,McDonald's,20,6.55
+New York,McDonald's,40,11.78
+North Carolina,Burger King,4,1.24
+North Carolina,Burger King,10,3.11
+North Carolina,Burger King,20,5.19
+North Carolina,Chick-fil-A,8,3.17
+North Carolina,Chick-fil-A,12,4.63
+North Carolina,McDonald's,4,2.07
+North Carolina,McDonald's,10,4.67
+North Carolina,McDonald's,20,5.2
+North Carolina,McDonald's,40,9.35
+North Dakota,Burger King,4,1.23
+North Dakota,Burger King,10,3.08
+North Dakota,Burger King,20,5.14
+North Dakota,Chick-fil-A,8,3.14
+North Dakota,Chick-fil-A,12,4.58
+North Dakota,McDonald's,4,2.05
+North Dakota,McDonald's,10,4.62
+North Dakota,McDonald's,20,5.15
+North Dakota,McDonald's,40,9.26
+Ohio,Burger King,4,1.2
+Ohio,Burger King,10,3.02
+Ohio,Burger King,20,5.04
+Ohio,Chick-fil-A,8,3.08
+Ohio,Chick-fil-A,12,4.49
+Ohio,McDonald's,4,2.01
+Ohio,McDonald's,10,4.53
+Ohio,McDonald's,20,5.05
+Ohio,McDonald's,40,9.08
+Oklahoma,Burger King,4,1.21
+Oklahoma,Burger King,10,3.05
+Oklahoma,Burger King,20,5.09
+Oklahoma,Chick-fil-A,8,3.11
+Oklahoma,Chick-fil-A,12,4.54
+Oklahoma,McDonald's,4,2.03
+Oklahoma,McDonald's,10,4.58
+Oklahoma,McDonald's,20,5.1
+Oklahoma,McDonald's,40,9.17
+Oregon,Burger King,4,1.33
+Oregon,Burger King,10,3.35
+Oregon,Burger King,20,5.59
+Oregon,Chick-fil-A,8,3.42
+Oregon,Chick-fil-A,12,4.98
+Oregon,McDonald's,4,2.23
+Oregon,McDonald's,10,5.03
+Oregon,McDonald's,20,5.6
+Oregon,McDonald's,40,10.07
+Pennsylvania,Burger King,4,1.33
+Pennsylvania,Burger King,10,3.35
+Pennsylvania,Burger King,20,5.59
+Pennsylvania,Chick-fil-A,8,3.42
+Pennsylvania,Chick-fil-A,12,4.98
+Pennsylvania,McDonald's,4,2.23
+Pennsylvania,McDonald's,10,5.03
+Pennsylvania,McDonald's,20,5.6
+Pennsylvania,McDonald's,40,10.07
+Rhode Island,Burger King,4,1.33
+Rhode Island,Burger King,10,3.35
+Rhode Island,Burger King,20,5.59
+Rhode Island,Chick-fil-A,8,3.42
+Rhode Island,Chick-fil-A,12,4.98
+Rhode Island,McDonald's,4,2.23
+Rhode Island,McDonald's,10,5.03
+Rhode Island,McDonald's,20,5.6
+Rhode Island,McDonald's,40,10.07
+South Carolina,Burger King,4,1.23
+South Carolina,Burger King,10,3.08
+South Carolina,Burger King,20,5.14
+South Carolina,Chick-fil-A,8,3.14
+South Carolina,Chick-fil-A,12,4.58
+South Carolina,McDonald's,4,2.05
+South Carolina,McDonald's,10,4.62
+South Carolina,McDonald's,20,5.15
+South Carolina,McDonald's,40,9.26
+South Dakota,Burger King,4,1.19
+South Dakota,Burger King,10,2.99
+South Dakota,Burger King,20,4.99
+South Dakota,Chick-fil-A,8,3.05
+South Dakota,Chick-fil-A,12,4.45
+South Dakota,McDonald's,4,1.99
+South Dakota,McDonald's,10,4.49
+South Dakota,McDonald's,20,5
+South Dakota,McDonald's,40,8.99
+Tennessee,Burger King,4,1.23
+Tennessee,Burger King,10,3.08
+Tennessee,Burger King,20,5.14
+Tennessee,Chick-fil-A,8,3.14
+Tennessee,Chick-fil-A,12,4.58
+Tennessee,McDonald's,4,2.05
+Tennessee,McDonald's,10,4.62
+Tennessee,McDonald's,20,5.15
+Tennessee,McDonald's,40,9.26
+Texas,Burger King,4,1.31
+Texas,Burger King,10,3.29
+Texas,Burger King,20,5.49
+Texas,Chick-fil-A,8,3.35
+Texas,Chick-fil-A,12,4.9
+Texas,McDonald's,4,2.19
+Texas,McDonald's,10,4.94
+Texas,McDonald's,20,5.5
+Texas,McDonald's,40,9.89
+Utah,Burger King,4,1.31
+Utah,Burger King,10,3.29
+Utah,Burger King,20,5.49
+Utah,Chick-fil-A,8,3.35
+Utah,Chick-fil-A,12,4.9
+Utah,McDonald's,4,2.19
+Utah,McDonald's,10,4.94
+Utah,McDonald's,20,5.5
+Utah,McDonald's,40,9.89
+Vermont,Burger King,4,1.37
+Vermont,Burger King,10,3.44
+Vermont,Burger King,20,5.74
+Vermont,Chick-fil-A,8,3.51
+Vermont,Chick-fil-A,12,5.12
+Vermont,McDonald's,4,2.29
+Vermont,McDonald's,10,5.16
+Vermont,McDonald's,20,5.75
+Vermont,McDonald's,40,10.34
+Virginia,Burger King,4,1.39
+Virginia,Burger King,10,3.5
+Virginia,Burger King,20,5.84
+Virginia,Chick-fil-A,8,3.57
+Virginia,Chick-fil-A,12,5.2
+Virginia,McDonald's,4,2.33
+Virginia,McDonald's,10,5.25
+Virginia,McDonald's,20,5.85
+Virginia,McDonald's,40,10.52
+Washington,Burger King,4,1.39
+Washington,Burger King,10,3.5
+Washington,Burger King,20,5.84
+Washington,Chick-fil-A,8,3.57
+Washington,Chick-fil-A,12,5.21
+Washington,McDonald's,4,2.33
+Washington,McDonald's,10,5.25
+Washington,McDonald's,20,5.85
+Washington,McDonald's,40,10.52
+West Virginia,Burger King,4,1.2
+West Virginia,Burger King,10,3.02
+West Virginia,Burger King,20,5.04
+West Virginia,Chick-fil-A,8,3.08
+West Virginia,Chick-fil-A,12,4.49
+West Virginia,McDonald's,4,2.01
+West Virginia,McDonald's,10,4.53
+West Virginia,McDonald's,20,5.05
+West Virginia,McDonald's,40,9.08
+Wisconsin,Burger King,4,1.25
+Wisconsin,Burger King,10,3.14
+Wisconsin,Burger King,20,5.24
+Wisconsin,Chick-fil-A,8,3.2
+Wisconsin,Chick-fil-A,12,4.67
+Wisconsin,McDonald's,4,2.09
+Wisconsin,McDonald's,10,4.71
+Wisconsin,McDonald's,20,5.25
+Wisconsin,McDonald's,40,9.44
+Wyoming,Burger King,4,1.3
+Wyoming,Burger King,10,3.26
+Wyoming,Burger King,20,5.44
+Wyoming,Chick-fil-A,8,3.31
+Wyoming,Chick-fil-A,12,4.85
+Wyoming,McDonald's,4,2.18
+Wyoming,McDonald's,10,4.89
+Wyoming,McDonald's,20,5.45
+Wyoming,McDonald's,40,9.8

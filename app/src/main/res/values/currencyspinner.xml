@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="currency_prompt">Choose currency</string>
+
+    <string-array name="currency_arrays">
+		<item>USD $</item>
+		<item>EUR €</item>
+		<item>GBP £</item>
+		<item>AUD $</item>
+		<item>NZD $</item>
+		<item>CAD $</item>
+		<item>CHF Fr</item>
+		<item>JPY ¥</item>
+
+    </string-array>
+
+</resources>

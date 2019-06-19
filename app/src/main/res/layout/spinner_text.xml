@@ -1,0 +1,14 @@
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:drawableStart="@drawable/location_icon2"
+    android:drawableLeft="@drawable/location_icon2"
+        android:drawableEnd="@drawable/drop_down_arrow2"
+        android:drawableRight="@drawable/drop_down_arrow2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawablePadding="10dp"
+        android:padding="10dp"
+        android:textColor="#ffffffff"
+        android:textSize="20sp"
+        />
